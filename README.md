@@ -61,8 +61,6 @@ $ git clone https://github.com/WesleyReboucas/iQuiz.git
 $ cd iQuiz
 
 ```
-**Acesse:** 
-
 
 ## :scroll: Certificados 
 
