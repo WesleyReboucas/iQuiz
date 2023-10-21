@@ -1,6 +1,6 @@
 
 <div >
-  <img src="imagens/github/Logo.png" width="1000px">
+  <img src="images/iQuizBanner.png" width="1000px">
 </div>
 
 <p align="center">
@@ -37,12 +37,12 @@ Assuntos abordados:
 
 ## Layout
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-	<img src="imagens/Screenshot 1.png" width="325px">	
-	<img src="imagens/Screenshot 2.png" width="325px">
-	<img src="imagens/Screenshot 3.png" width="325px">
-	<img src="imagens/Screenshot 4.png" width="325px">
-  <img src="imagens/Screenshot 5.png" width="325px">
-  <img src="imagens/Screenshot 6.png" width="325px">
+	<img src="images/Screenshot 1.png" width="325px">	
+	<img src="images/Screenshot 2.png" width="325px">
+	<img src="images/Screenshot 3.png" width="325px">
+	<img src="images/Screenshot 4.png" width="325px">
+  	<img src="images/Screenshot 5.png" width="325px">
+  	<img src="images/Screenshot 6.png" width="325px">
 </div>
 
 ## Tecnologias
